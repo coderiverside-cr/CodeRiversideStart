@@ -1,0 +1,1 @@
+Bienvenidos a Code Riverside. Java IO, o Java Input/Output, es un conjunto de clases e interfaces en Java que permite la manipulación de datos de entrada y salida. Se utiliza principalmente para leer y escribir datos desde y hacia diferentes fuentes, como archivos, dispositivos de red y otros flujos de datos.
